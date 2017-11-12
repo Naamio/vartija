@@ -11,3 +11,9 @@ It is designed to work with more complicated authentication and identity provide
 way using standard HTTP protocols.
 
 **Vartija** is also Finnish for guard.
+
+## The License
+
+The project is open source, and has been licensed with specific conditions 
+to allow its source to be used for commercial and non-profit purposes. Please 
+read [the license](./LICENSE "the license") for more information.
